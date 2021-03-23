@@ -1,0 +1,9 @@
+{
+	"name": "raj-ussc-vs-df-01",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b9d7bf79-1ca5-48d0-8601-8056522b7a76",
+		"tenantId": "f5472a57-ef2c-4de6-ab0b-636fac2f72a2"
+	}
+}
